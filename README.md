@@ -10,3 +10,4 @@ This repository contains an image classification model built using ResNeXt-50 (3
 Run on Kaggle Notebooks, utilizing Kaggle's free GPUs for training and evaluation. 
 
 ## Performance snapshot
+[Snapshot on leaderboard](https://imgur.com/92zKP24)
